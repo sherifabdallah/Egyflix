@@ -21,7 +21,7 @@ Egyflix is a free streaming service that allows our members to watch TV shows an
 ## How to run
 * Enter the directory where the script is located then type the following to the console
 ```sh
-$ git clone https://github.com/sherif-abdallah/Egyflix Egyflix
+$ git clone https://github.com/sherifabdallah/Egyflix Egyflix
 ```
 * Install Python 3.8 venv, pip and compiler
 
@@ -59,4 +59,4 @@ session operates in a virtual environment set up by `virtualenv`.
 * And navigate to `http://127.0.0.1:8000`.
 
 ## Author
-[Sherif Abdullah](https://github.com/sherif-abdallah)
+[Sherif Abdullah](https://github.com/sherifabdallah)
